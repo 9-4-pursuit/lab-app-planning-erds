@@ -116,3 +116,5 @@ Further resources:
 ## Lab Submission
 
 In Canvas, add relevant text and links to your work.
+
+(Finished lab)
